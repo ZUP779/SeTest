@@ -1,0 +1,95 @@
+
+
+/*----------------------common-------------------------*/
+*{ margin:0; padding:0; font-family:"Times New Roman", Times, serif;}
+.clear{ clear:both;}
+.fl{ float:left;}
+.fr{ float:right;}
+img{ border:none;}
+a{ text-decoration:none;}
+a:hover{ text-decoration:none;}
+li{ list-style-type:none;}
+.ofh{overflow:hidden;}
+.p10{ padding:10px;}
+.center{ text-align:center;}
+.em{ text-indent:2em;}
+body{ background:url(../images/bj.jpg) top center fixed no-repeat;}
+
+/*----------------------con-------------------------*/
+.con{ width:960px; padding:20px; height:auto; margin:10px auto; background:#fff; background:#fff; background-color:rgba(255,255,255,0.9);-moz-border-radius:10px;border-radius:10px;}
+/*----------------head-----------------*/
+.head{ width:960px; height:auto; margin:auto;}
+.logo{ width:550px; height:90px; float:left;}
+.logo h1{ font-size:36px; line-height:90px; color:#5c307d; }
+
+.nav{ width:auto; height:40px; margin:5px auto;background-color:#5c307d;-moz-border-radius:5px;border-radius:5px;}
+.nav ul{ float:right; padding-right:50px;}
+.nav li{ float:left; padding:5px 30px; }
+.nav li a{ font-size:20px; line-height:30px; color:#eee;}
+.nav li a:hover{ color:#fff; text-decoration:none;}
+.nav li:hover{ background-color:#3e0768}
+.nav li:hover a{ color:#fff;}
+
+
+/*----------------main-----------------*/
+.main{ width:960px; height:auto; margin:10px auto; font-size:14px; line-height:24px; color:#555;}
+.main h2{font-size:22px; line-height:46px; color:#333;}
+.main h2 a{font-size:22px; line-height:46px; color:#333;}
+.main a{ color:#333;}
+.main a:hover{color:#900;}
+.main p{font-size:16px; line-height:28px; color:#555;}
+
+
+.main_top{ width:960px; height:auto; margin:10px auto; }
+
+.main_topl{ width:300px; height:auto; padding:10px; float:left;}
+.main_topr{ width:600px; height:auto;  padding:10px; float:left;}
+
+.main_info{ width:960px; height:auto; margin:10px auto;border-top:3px solid #5c307d; }
+.main_infol{ width:300px; height:auto; float:left; margin:10px;}
+.main_infom{ width:300px; height:auto; float:left; margin:10px;}
+.main_infor{ width:300px; height:auto; float:left; margin:10px; }
+
+.main_in{ width:910px; padding:20px; margin:auto;font-size:16px; line-height:26px; color:#555;}
+
+.Project{ width:910px; padding:20px; margin:auto;font-size:16px; line-height:32px; color:#555;}
+.Project p{ font-size:16px; line-height:32px; color:#555;}
+
+.Research_list{ width:910px; height:auto; margin:5px auto;}
+.Research_list li{height:220px; float:left; margin:10px;}
+.Research_list li img{  height:220px; }
+.Research_list2{ width:910px; height:auto; margin:5px auto;}
+.Research_list2 li{height:210px; float:left; margin:10px;}
+.Research_list2 li img{  height:210px; }
+
+.Project_list{ width:910px; height:auto; margin:5px auto;}
+.Project_list li{ width:280px; height:auto; float:left; margin:10px;}
+.Project_list li img{  width:280px; height:220px; }
+
+/*----------------foot-----------------*/
+.foot{ width:960px; height:50px; margin:10px auto; padding-top:10px; border-top:3px solid #5c307d; text-align:center; font-size:14px; line-height:24px; color:#666;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
